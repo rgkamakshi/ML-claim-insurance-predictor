@@ -90,4 +90,4 @@ if st.button('Predict'):
 
     
 
-st.markdown("[Click here to read more about the project](https://rgkamakshi.github.io)")
+st.markdown("[Click here to read more about the project](https://medium.com/p/16f7a5f29e0e)")
