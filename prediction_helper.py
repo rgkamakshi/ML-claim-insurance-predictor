@@ -2,8 +2,8 @@ import pandas as pd
 import joblib
 
 # Load the trained model and scaler
-best_model = joblib.load("artifacts\\best_model.joblib")
-scaler = joblib.load("artifacts\\scaler.joblib")
+best_model = joblib.load("artifacts//best_model.joblib")
+scaler = joblib.load("artifacts//scaler.joblib")
 
 def categorize_age(age_input):
 
